@@ -1,0 +1,1 @@
+2025/04/14 14:16:20 [error] 25#25: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.19.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
